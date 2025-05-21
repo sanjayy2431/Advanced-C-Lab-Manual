@@ -1,7 +1,7 @@
 ## EXP NO 4A : C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 ```
-NAME : P JANARDHAN
-REGISTER NUMBER : 212224040128
+NAME : SANJAY V
+REGISTER NUMBER : 212223230188
 ```
 ## Aim:
 To write a C program to search a given element in the given linked list.
